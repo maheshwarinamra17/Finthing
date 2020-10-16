@@ -1,0 +1,4 @@
+#Sat Jun 08 14:21:43 IST 2019
+base.0=/Users/namra/Projects/Finthing/finthing/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

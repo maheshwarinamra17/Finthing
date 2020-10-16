@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:paddingTop="@dimen/card_vertical_padding"
+    android:paddingBottom="@dimen/card_vertical_padding"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+    <ImageView
+        android:id="@+id/trans_cat_icon"
+        android:layout_width="@dimen/nav_button_dimen"
+        android:layout_height="@dimen/nav_button_dimen" />
+
+    <TextView
+        android:id="@+id/trans_narration"
+        android:layout_toRightOf="@id/trans_cat_icon"
+        android:paddingLeft="@dimen/m20"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/trans_sub_narration"
+        android:layout_below="@id/trans_narration"
+        android:layout_toRightOf="@id/trans_cat_icon"
+        android:paddingLeft="@dimen/m20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/grey"
+        android:textSize="12sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_alignParentRight="true"
+        android:id="@+id/trans_amount"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

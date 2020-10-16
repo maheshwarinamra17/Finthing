@@ -1,0 +1,59 @@
+{
+	"msg": 200,
+	"data": {
+		"HDFC": {
+			"bank_name": "HDFC Bank",
+			"templates": [{
+				"temp_id": 1,
+				"starts_with": "Thank",
+				"template": "Thank you for using Debit Card ending {last_4_card_num} for {spend} in {location} at {service} on {timestamp} Avl bal: {current_balance}",
+				"mode": "111"
+			},{
+				"temp_id": 2,
+				"starts_with": "was",
+				"template": "{spend} was withdrawn using your HDFC Bank Card ending {last_4_card_num} on {timestamp} at {service} Avl bal: {current_balance}",
+				"mode": "333"
+			},{
+				"temp_id": 3,
+				"starts_with": "An",
+				"template": "An amount of {spend} has been debited from your account number {last_4_card_num} for an online payment txn done using HDFC Bank NetBanking.",
+				"mode": "222"
+			},{
+				"temp_id": 4,
+				"starts_with": "Thanks",
+				"template": "Thanks for paying {spend} from A/c {last_4_card_num} to {service} via NetBanking. Enjoy this OFFER! {personal_url}",
+				"mode": "222"
+			},{
+				"temp_id": 5,
+				"starts_with": "An",
+				"template": "An amount of {spend} has been debited from A/C no. {last_4_card_num} for an online payment done using HDFC Bank NetBanking. Exclusive offer {personal_url}",
+				"mode": "222"
+			},{
+				"temp_id": 6,
+				"starts_with": "Your",
+				"template": "Your a/c no. {last_4_card_num} is debited for {spend} on {timestamp} and a/c {dest_last_4_card_num} credited (IMPS Ref no {service}",
+				"mode": "555"
+			},{
+				"temp_id": 7,
+				"starts_with": "is",
+				"template": "{spend} is debited from {last_4_ac_num} on {timestamp} for {service}",
+				"mode": "444"
+			},{
+				"temp_id": 8,
+				"starts_with": "An",
+				"template": "An amount of {spend} has been debited from your account number {last_4_card_num} for {service} txn done using HDFC Bank NetBanking",
+				"mode": "555"
+			},{
+				"temp_id": 9,
+				"starts_with": "Your",
+				"template": "Your a/c no. {last_4_card_num} is credited by {spend} on {timestamp} by a/c linked to mobile {mobile} (IMPS Ref no {service}",
+				"mode": "555"
+			},{
+				"temp_id": 10,
+				"starts_with": "ALERT",
+				"template": "ALERT:You've spent {spend} via Debit Card {last_4_card_num} at {service} on {timestamp}.Avl Bal {current_balance}",
+				"mode": "555"
+			}]
+		}
+	}
+}

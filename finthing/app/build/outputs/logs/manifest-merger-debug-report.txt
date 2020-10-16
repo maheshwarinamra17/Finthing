@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/namra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a1bb184d5525b7e56de964c8ddd73d92/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/2fea7b3df3c1dee4dc25842db7fd7d9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4cc05dacc41743a5f9790b99554bcc50/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/40e09f15608df42e8cd02a8616c17222/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/19f91a90a6e1b14ab7f64c151d5e1c86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/5d4be6ec1b1d9cc39eba6b9377c90fc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/4741ea985c6504ce3e7117d3623a3923/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/49249083c7e15cf21e4328b2a3f040c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/be975c259b82696ad8ab550b32359838/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/863199bcdc9de1cda393ae71f38cb8dd/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f4dd6c60b613a686d109e4aff0f0584a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9f5a7adde384158fb0e18e97cc1f62bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/fa53fd64d4a64b8aea4caf92d17dd429/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8e4a8a0d4a719b247684266a388fb1b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:32:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/namra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a1bb184d5525b7e56de964c8ddd73d92/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/namra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a1bb184d5525b7e56de964c8ddd73d92/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:13:9-40
+activity#finthing.finthing.AccountActivity
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:14:9-53
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:14:19-50
+service#services.ExtractTransactionsIntentService
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:17:13-69
+activity#finthing.finthing.MainActivity
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:24:27-74
+service#services.InsertTagsInLocalIntentService
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:29:13-67
+service#services.AssignTagsToTransactionsService
+ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:31:9-33:48
+	android:exported
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml:32:13-68
+uses-sdk
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/namra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a1bb184d5525b7e56de964c8ddd73d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/namra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a1bb184d5525b7e56de964c8ddd73d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/2fea7b3df3c1dee4dc25842db7fd7d9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/2fea7b3df3c1dee4dc25842db7fd7d9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4cc05dacc41743a5f9790b99554bcc50/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4cc05dacc41743a5f9790b99554bcc50/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/40e09f15608df42e8cd02a8616c17222/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/40e09f15608df42e8cd02a8616c17222/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/19f91a90a6e1b14ab7f64c151d5e1c86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/19f91a90a6e1b14ab7f64c151d5e1c86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/5d4be6ec1b1d9cc39eba6b9377c90fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/5d4be6ec1b1d9cc39eba6b9377c90fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/4741ea985c6504ce3e7117d3623a3923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/4741ea985c6504ce3e7117d3623a3923/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/49249083c7e15cf21e4328b2a3f040c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/49249083c7e15cf21e4328b2a3f040c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/be975c259b82696ad8ab550b32359838/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/be975c259b82696ad8ab550b32359838/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/863199bcdc9de1cda393ae71f38cb8dd/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/863199bcdc9de1cda393ae71f38cb8dd/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f4dd6c60b613a686d109e4aff0f0584a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f4dd6c60b613a686d109e4aff0f0584a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9f5a7adde384158fb0e18e97cc1f62bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/9f5a7adde384158fb0e18e97cc1f62bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/fa53fd64d4a64b8aea4caf92d17dd429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/fa53fd64d4a64b8aea4caf92d17dd429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8e4a8a0d4a719b247684266a388fb1b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/8e4a8a0d4a719b247684266a388fb1b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		ADDED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/namra/Projects/Finthing/finthing/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/d22cb8f9f5bb83e5fcc72733746ef358/AndroidManifest.xml:34:13-63
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/namra/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8a82376a718eeb9ef9940915a1f6a559/AndroidManifest.xml:26:13-58

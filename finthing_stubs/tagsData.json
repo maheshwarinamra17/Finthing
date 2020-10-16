@@ -1,0 +1,25 @@
+{
+	"msg": 200,
+	"data": {
+		"UBER": {
+			"name": "uber",
+			"type": "taxi",
+			"category": "travel"
+		},
+		"ZOMATO": {
+			"name": "zomato",
+			"type": "food",
+			"category": "leisure"
+		},
+		"IRCTC": {
+			"name": "IRCTC",
+			"type": "train",
+			"category": "travel"
+		},
+		"AMAZON":{
+			"name": "amazon",
+			"type": "shopping",
+			"category": "expense"
+		}
+	}
+}
